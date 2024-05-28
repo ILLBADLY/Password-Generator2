@@ -1,5 +1,15 @@
-![image](https://github.com/ILLBADLY/Password-Generator2/assets/148934222/23fba35c-b085-4d9b-9ce1-012b6fea3189)Password-Generator
+Password-Generator
 Генератор паролей
+
+
+![image](https://github.com/ILLBADLY/Password-Generator2/assets/148934222/e45cd1a3-076b-47d1-8e9a-e1c72d12244a)
+
+
+
+
+
+
+
 
 Libraries:
 Tkinter is a graphical library that allows you to create programs with a windowed interface.
@@ -12,6 +22,7 @@ Tkinter - это графическая библиотека, позволяющ
 Customtkinter - это модуль, полностью построенный на модуле Tkinter, который помогает разработчикам 
   создавать современный пользовательский интерфейс, 
   который был невозможен с традиционным модулем Tkinter.
+
 
 
 
